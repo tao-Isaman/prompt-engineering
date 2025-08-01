@@ -62,7 +62,7 @@ style: |
 # 🧠 Workflows & Tasks with LLM
 ### การออกแบบ AI Workflow อย่างมีประสิทธิภาพ
 
-#### โดย อิสมันต์ แสงบำรุง 
+#### โดย อิสมันต์ แสงบำรุง (เต๋า)
 #### Technical Incubator at The Tiger team academy
 
 ![bg right:40% 80%](https://raw.githubusercontent.com/openai/openai-python/main/resources/logo.png)
@@ -75,19 +75,19 @@ style: |
 <div>
 
 ## 🎯 หัวข้อหลัก
-- **Introduction:** ทำไมต้องมี AI Workflow
-- **Prompt Types:** Prompt ตามประเภทของ Task
-- **Workflow Design:** การออกแบบ Prompt Workflow
-- **Structured Output:** เพื่อ Workflow ที่ต่อเนื่อง
+- **1. Introduction:** ทำไมต้องมี AI Workflow
+- **2. Prompt Types:** Prompt ตามประเภทของ Task
+- **3. Workflow Design:** การออกแบบ Prompt Workflow
+- **4. Structured Output:** เพื่อ Workflow ที่ต่อเนื่อง
 
 </div>
 <div>
 
 ## 🛠️ กิจกรรมปฏิบัติ
-- **Workshop:** สร้าง AI Workflow ของคุณ
-- **Showcase:** นำเสนอผลงาน
-- **Feedback:** รับฟังข้อเสนอแนะ
-- **Templates:** รับ Prompt & Workflow Template
+- **5. Workshop:** สร้าง AI Workflow ของคุณ
+- **6. สรุปและการใช้งานต่อ:** Best Practices & Templates
+- **กิจกรรม:** แบ่งงาน, เขียน Prompt, ทดสอบ Workflow
+- **Templates:** Prompt & Workflow Templates พร้อมใช้
 
 </div>
 </div>
